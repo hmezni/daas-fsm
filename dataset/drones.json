@@ -1,0 +1,242 @@
+[
+    {
+        "name": "d_1",
+        "speed": 13.03,
+        "cost": 68.93,
+        "battery_capacity": 301.56,
+        "payload_capacity": 19.28,
+        "flight_range": 23.52
+    },
+    {
+        "name": "d_2",
+        "speed": 23.01,
+        "cost": 59.53,
+        "battery_capacity": 399.54,
+        "payload_capacity": 6.77,
+        "flight_range": 20.36
+    },
+    {
+        "name": "d_3",
+        "speed": 23.69,
+        "cost": 73.56,
+        "battery_capacity": 426.38,
+        "payload_capacity": 19.56,
+        "flight_range": 15.18
+    },
+    {
+        "name": "d_4",
+        "speed": 17.68,
+        "cost": 78.17,
+        "battery_capacity": 203.01,
+        "payload_capacity": 13.79,
+        "flight_range": 27.57
+    },
+    {
+        "name": "d_5",
+        "speed": 20.62,
+        "cost": 81.42,
+        "battery_capacity": 437.48,
+        "payload_capacity": 18.84,
+        "flight_range": 44.87
+    },
+    {
+        "name": "d_6",
+        "speed": 14.65,
+        "cost": 53.83,
+        "battery_capacity": 470.16,
+        "payload_capacity": 11.62,
+        "flight_range": 30.13
+    },
+    {
+        "name": "d_7",
+        "speed": 15.4,
+        "cost": 90.21,
+        "battery_capacity": 445.71,
+        "payload_capacity": 5.11,
+        "flight_range": 26.79
+    },
+    {
+        "name": "d_8",
+        "speed": 19.01,
+        "cost": 79.33,
+        "battery_capacity": 460.64,
+        "payload_capacity": 13.42,
+        "flight_range": 31.56
+    },
+    {
+        "name": "d_9",
+        "speed": 19.01,
+        "cost": 74.11,
+        "battery_capacity": 466.15,
+        "payload_capacity": 14.06,
+        "flight_range": 41.59
+    },
+    {
+        "name": "d_10",
+        "speed": 15.67,
+        "cost": 85.53,
+        "battery_capacity": 328.37,
+        "payload_capacity": 6.07,
+        "flight_range": 11.27
+    },
+    {
+        "name": "d_11",
+        "speed": 10.02,
+        "cost": 67.59,
+        "battery_capacity": 114.02,
+        "payload_capacity": 9.3,
+        "flight_range": 27.58
+    },
+    {
+        "name": "d_12",
+        "speed": 13.23,
+        "cost": 55.86,
+        "battery_capacity": 174.15,
+        "payload_capacity": 7.53,
+        "flight_range": 19.78
+    },
+    {
+        "name": "d_13",
+        "speed": 22.05,
+        "cost": 91.48,
+        "battery_capacity": 163.74,
+        "payload_capacity": 15.08,
+        "flight_range": 39.35
+    },
+    {
+        "name": "d_14",
+        "speed": 24.39,
+        "cost": 62.74,
+        "battery_capacity": 404.47,
+        "payload_capacity": 9.87,
+        "flight_range": 43.13
+    },
+    {
+        "name": "d_15",
+        "speed": 19.81,
+        "cost": 73.81,
+        "battery_capacity": 364.61,
+        "payload_capacity": 12.86,
+        "flight_range": 24.87
+    },
+    {
+        "name": "d_16",
+        "speed": 19.19,
+        "cost": 73.89,
+        "battery_capacity": 482.89,
+        "payload_capacity": 10.46,
+        "flight_range": 42.76
+    },
+    {
+        "name": "d_17",
+        "speed": 19.64,
+        "cost": 74.46,
+        "battery_capacity": 129.55,
+        "payload_capacity": 6.26,
+        "flight_range": 20.54
+    },
+    {
+        "name": "d_18",
+        "speed": 22.67,
+        "cost": 91.75,
+        "battery_capacity": 481.09,
+        "payload_capacity": 13.91,
+        "flight_range": 16.73
+    },
+    {
+        "name": "d_19",
+        "speed": 13.06,
+        "cost": 52.51,
+        "battery_capacity": 492.23,
+        "payload_capacity": 18.59,
+        "flight_range": 13.03
+    },
+    {
+        "name": "d_20",
+        "speed": 13.66,
+        "cost": 86.91,
+        "battery_capacity": 402.64,
+        "payload_capacity": 8.73,
+        "flight_range": 18.99
+    },
+    {
+        "name": "d_21",
+        "speed": 16.01,
+        "cost": 77.38,
+        "battery_capacity": 222.64,
+        "payload_capacity": 10.05,
+        "flight_range": 23.61
+    },
+    {
+        "name": "d_22",
+        "speed": 21.96,
+        "cost": 52.54,
+        "battery_capacity": 309.0,
+        "payload_capacity": 10.5,
+        "flight_range": 19.18
+    },
+    {
+        "name": "d_23",
+        "speed": 24.65,
+        "cost": 77.01,
+        "battery_capacity": 352.9,
+        "payload_capacity": 11.65,
+        "flight_range": 27.19
+    },
+    {
+        "name": "d_24",
+        "speed": 22.89,
+        "cost": 50.66,
+        "battery_capacity": 169.89,
+        "payload_capacity": 6.97,
+        "flight_range": 33.35
+    },
+    {
+        "name": "d_25",
+        "speed": 20.54,
+        "cost": 76.47,
+        "battery_capacity": 369.55,
+        "payload_capacity": 16.24,
+        "flight_range": 11.89
+    },
+    {
+        "name": "d_26",
+        "speed": 18.47,
+        "cost": 56.97,
+        "battery_capacity": 357.78,
+        "payload_capacity": 11.06,
+        "flight_range": 44.14
+    },
+    {
+        "name": "d_27",
+        "speed": 10.37,
+        "cost": 55.73,
+        "battery_capacity": 290.62,
+        "payload_capacity": 12.44,
+        "flight_range": 12.72
+    },
+    {
+        "name": "d_28",
+        "speed": 14.25,
+        "cost": 51.97,
+        "battery_capacity": 334.56,
+        "payload_capacity": 5.1,
+        "flight_range": 10.53
+    },
+    {
+        "name": "d_29",
+        "speed": 17.49,
+        "cost": 91.2,
+        "battery_capacity": 119.23,
+        "payload_capacity": 14.39,
+        "flight_range": 37.3
+    },
+    {
+        "name": "d_30",
+        "speed": 10.18,
+        "cost": 84.13,
+        "battery_capacity": 448.71,
+        "payload_capacity": 11.18,
+        "flight_range": 21.93
+    }
+]
